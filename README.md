@@ -20,11 +20,13 @@ contains no offensive capability. Think `binwalk` + `strings` + `exiftool`
 glued together with an interactive terminal UI.
 
 ```
-   _   _ _____ _____   _____ ___ _   _ ___ ____  _____ ____
-  /_\ | |_   _|_ _\ \ / /_ _/ __| | | |_ _|  _ \|_   _/ ___|
- / _ \| | | |  | | \ V / | |\__ \ |_| || || |_) | | |\___ \
-/_/ \_\_| |_| |___| \_/  |___|___/\___/|___| .__/ |_| |___/
-           universal artifact & binary triage        
+        _______ _____               _                          _ 
+     /\|__   __|_   _|             (_)                        | |
+    /  \  | |    | |    _   _ _ __  ___   _____ _ __ ___  __ _| |
+   / /\ \ | |    | |   | | | | '_ \| \ \ / / _ \ '__/ __|/ _` | |
+  / ____ \| |   _| |_  | |_| | | | | |\ V /  __/ |  \__ \ (_| | |
+ /_/    \_\_|  |_____|  \__,_|_| |_|_| \_/ \___|_|  |___/\__,_|_|
+                universal artifact & binary triage        
 ```
 
 ## Safety, legality & responsible use
