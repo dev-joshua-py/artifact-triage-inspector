@@ -23,8 +23,8 @@ glued together with an interactive terminal UI.
    _   _ _____ _____   _____ ___ _   _ ___ ____  _____ ____
   /_\ | |_   _|_ _\ \ / /_ _/ __| | | |_ _|  _ \|_   _/ ___|
  / _ \| | | |  | | \ V / | |\__ \ |_| || || |_) | | |\___ \
-/_/ \_\_| |_| |___| \_/  |___|___/\___/|___| .__/  |_| |___/
-        universal artifact & binary triage        |_|
+/_/ \_\_| |_| |___| \_/  |___|___/\___/|___| .__/ |_| |___/
+           universal artifact & binary triage        
 ```
 
 ## Safety, legality & responsible use
