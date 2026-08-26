@@ -1,0 +1,3 @@
+# ati runs entirely on the Python standard library -- nothing to install.
+# Requires Python 3.10+. On Python 3.14+, embedded Zstandard frames are also
+# carved automatically via the built-in compression.zstd module.
